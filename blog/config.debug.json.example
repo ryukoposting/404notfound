@@ -1,0 +1,21 @@
+{
+  "prologue": {
+    "address": "192.168.0.101",
+    "port": 8000,
+    "debug": true,
+    "reusePort": true,
+    "appName": "404notfound",
+    "secretKey": "put your secret key here",
+    "bufSize": 40960
+  },
+  "blogAuthor": "Evan Perry Grove",
+  "blogName": "404NotFound",
+  "maxPostsPerPage": 20,
+  "latestPostsCount": 6,
+  "socials": {
+    "LinkedIn": "https://linkedin.com/in/epg",
+    "GitHub": "https://github.com/ryukoposting",
+    "GitLab": "https://gitlab.com/ryukoposting"
+  },
+  "name": "debug"
+}
